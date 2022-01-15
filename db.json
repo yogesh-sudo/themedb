@@ -1,11 +1,11 @@
 [
  {
-  "theme-Image": "https://i.ibb.co/MVXPHjy/biddo.png",
-  "theme-type": "Ecommerce",
-  "theme-name": "Biddo",
-  "theme-youtube": "https://www.youtube.com/channel/UCotlG8snnZiU4JEwlroUjEQ",
-  "theme-description": "ReactJs Ecommerce Template",
-  "theme-creater-name": "Yogesh Jugwan",
-  "date-time": "01-15-2022 22:40"
+  "themeImage": "https://i.ibb.co/MVXPHjy/biddo.png",
+  "themeType": "Ecommerce",
+  "themeName": "Biddo",
+  "themeYoutube": "https://www.youtube.com/channel/UCotlG8snnZiU4JEwlroUjEQ",
+  "themeDescription": "ReactJs Ecommerce Template",
+  "themeCreaterName": "Yogesh Jugwan",
+  "dateTime": "01-15-2022 22:40"
  }
 ]
