@@ -1,73 +1,11 @@
 [
  {
-  "Theme_Type": "Ecommerce",
-  "Creater_Name": "Yogesh",
-  "Theme_Name": "Biddo",
-  "Theme_image":"url",
-  "Theme_Link": "https:\/\/biddo.netlify.app\/",
-  "Youtube_Link": "Youtube_Link"
- },
- {
-  "Theme_Type": "Ecommerce",
-  "Creater_Name": "Yogesh",
-  "Theme_Name": "Biddo",
-  "Theme_image":"url",
-  "Theme_Link": "https:\/\/biddo.netlify.app\/",
-  "Youtube_Link": "Youtube_Link"
- },
- {
-  "Theme_Type": "Ecommerce",
-  "Creater_Name": "Yogesh",
-  "Theme_Name": "Biddo",
-  "Theme_image":"url",
-  "Theme_Link": "https:\/\/biddo.netlify.app\/",
-  "Youtube_Link": "Youtube_Link"
- },
- {
-  "Theme_Type": "Ecommerce",
-  "Creater_Name": "Yogesh",
-  "Theme_Name": "Biddo",
-  "Theme_Link": "https:\/\/biddo.netlify.app\/",
-  "Youtube_Link": "Youtube_Link"
- },
- {
-  "Theme_Type": "Ecommerce",
-  "Creater_Name": "Yogesh",
-  "Theme_Name": "Biddo",
-  "Theme_image":"url",
-  "Theme_Link": "https:\/\/biddo.netlify.app\/",
-  "Youtube_Link": "Youtube_Link"
- },
- {
-  "Theme_Type": "Ecommerce",
-  "Creater_Name": "Yogesh",
-  "Theme_Name": "Biddo",
-  "Theme_image":"url",
-  "Theme_Link": "https:\/\/biddo.netlify.app\/",
-  "Youtube_Link": "Youtube_Link"
- },
- {
-  "Theme_Type": "Ecommerce",
-  "Creater_Name": "Yogesh",
-  "Theme_Name": "Biddo",
-  "Theme_image":"url",
-  "Theme_Link": "https:\/\/biddo.netlify.app\/",
-  "Youtube_Link": "Youtube_Link"
- },
- {
-  "Theme_Type": "Ecommerce",
-  "Creater_Name": "Yogesh",
-  "Theme_Name": "Biddo",
-  "Theme_image":"url",
-  "Theme_Link": "https:\/\/biddo.netlify.app\/",
-  "Youtube_Link": "Youtube_Link"
- },
- {
-  "Theme_Type": "Ecommerce",
-  "Creater_Name": "Yogesh",
-  "Theme_Name": "Biddo",
-  "Theme_image":"url",
-  "Theme_Link": "https:\/\/biddo.netlify.app\/",
-  "Youtube_Link": "Youtube_Link"
+  "theme-Image": "https://i.ibb.co/MVXPHjy/biddo.png",
+  "theme-type": "Ecommerce",
+  "theme-name": "Biddo",
+  "theme-youtube": "https://www.youtube.com/channel/UCotlG8snnZiU4JEwlroUjEQ",
+  "theme-description": "ReactJs Ecommerce Template",
+  "theme-creater-name": "Yogesh Jugwan",
+  "date-time": "01-15-2022 22:40"
  }
 ]
